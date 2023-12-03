@@ -1,22 +1,22 @@
-# Pose-aware-masking-Using-Mediapipe
-
-![Project Logo/Image]
-
-[Project Description - One or two sentences]
-
-## Overview
-
-[Provide a brief overview of the project, its purpose, and the problem it solves.]
+# Face Pose-aware-masking-Using-Mediapipe
+# This Image Taken from StyleLipSync 
+https://github.com/TaekyungKi/StyleLipSync
+![Pose-aware Masking Logo]( Logo/sylelipsync.png)
+# From Mediapipe Doc
+![Face LandMarks 468 ]( Logo/mediapipe_face_landmark_fullsize.png)
 
 ## Features
-
-- Pose-aware masking for improved naturalness.
-- [List other key features]
+  This is simple Pose Aware Masking of Face 
+  Based on given Landmarks cropping mask
+  # Input Image
+  ![Pose-aware Masking Logo]( Logo/00001.jpg)
+  # Mask Image
+  ![Pose-aware Masking Logo]( Logo/00001_front_mask.jpg)
 
 ## Prerequisites
 
 - Python
-- [List other dependencies]
+- 3.8
 
 ## Installation
 
