@@ -9,9 +9,11 @@ https://github.com/TaekyungKi/StyleLipSync
   This is simple Pose Aware Masking of Face 
   Based on given Landmarks cropping mask
   # Input Image
-  ![Pose-aware Masking Logo]( Logo/00001.jpg)
+  ![Pose-aware Masking Logo]( Logo/00001.jpg) 
+  ![Image Video]( Logo/3.mp4)
   # Mask Image
   ![Pose-aware Masking Logo]( Logo/00001_front_mask.jpg)
+  ![Mask Video]( Logo/mask.mp4)
 
 ## Prerequisites
 
