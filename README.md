@@ -21,4 +21,4 @@ https://github.com/TaekyungKi/StyleLipSync
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip install mediapipe
