@@ -10,10 +10,11 @@ https://github.com/TaekyungKi/StyleLipSync
   Based on given Landmarks cropping mask
   # Input Image
   ![Pose-aware Masking Logo]( Logo/00001.jpg) 
-  ![Image Video]( Logo/3.mp4)
+  ![Image Video](https://raw.githubusercontent.com/ameerazam08/Pose-aware-masking-Using-Mediapipe/main/Logo/3.mp4)
+
   # Mask Image
   ![Pose-aware Masking Logo]( Logo/00001_front_mask.jpg)
-  ![Mask Video]( Logo/mask.mp4)
+  ![Mask Video](https://raw.githubusercontent.com/ameerazam08/Pose-aware-masking-Using-Mediapipe/main/Logo/mask.mp4)
 
 ## Prerequisites
 
