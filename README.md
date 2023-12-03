@@ -21,4 +21,4 @@ https://github.com/TaekyungKi/StyleLipSync
 ## Installation
 
 ```bash
-pip install mediapipe
+pip install mediapipe==0.9.1.0
